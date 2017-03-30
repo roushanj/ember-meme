@@ -1,0 +1,1 @@
+/root/ember/ember-u/tmp/funnel-input_base_path-ZS1kNvIT.tmp/index.js

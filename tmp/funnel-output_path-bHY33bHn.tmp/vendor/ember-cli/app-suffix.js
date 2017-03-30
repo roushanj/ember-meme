@@ -1,0 +1,1 @@
+/root/ember/ember-u/tmp/funnel-input_base_path-cTuFRGqG.tmp/app-suffix.js

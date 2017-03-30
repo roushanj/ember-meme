@@ -1,0 +1,1 @@
+/root/ember/ember-u/tmp/funnel-input_base_path-gZB2t3R5.tmp/initializer-factory.js
